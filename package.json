@@ -34,7 +34,7 @@
     "@flipt-io/flipt-client": "^0.14.0",
     "@microsoft/applicationinsights-clickanalytics-js": "^3.4.4",
     "@microsoft/applicationinsights-web": "^3.4.4",
-    "@ministryofjustice/frontend": "^11.0.1",
+    "@ministryofjustice/frontend": "^11.1.0",
     "@ministryofjustice/hmpps-arns-frontend-components-lib": "3.0.4",
     "@ministryofjustice/hmpps-mpop-frontend-components-lib": "0.0.23",
     "@ministryofjustice/hmpps-audit-client": "1.1.3",
